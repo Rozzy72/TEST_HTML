@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: white !important;
+}
+.navbar{
+    display: flex;
+    
+    width: 100%;
+   
+}
+/* .navbar-nav{
+    display: flex;
+    margin-left: 670px;
+} */
+ .navbar-collapse{
+    flex-grow: 0 !important;
+ }
+.box{
+  
+   
+    /* margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+.first{
+    width: 30%;
+    text-align: center;
+    margin-left: 35%;
+    margin-bottom: 50px;
+}
+.box h1{
+    font-size: 46px;
+    font-weight: 400;
+    text-align: center;
+}
+.box p{
+    font-size: 20px;
+    font-weight: 400;
+}
+/* .round{
+   /* margin-left: 100px; */
+   /* border-radius: 50px;
+   padding: 10px 20px;
+   font-size: 26px;
+   font-weight: 600;
+} */ 
+ .middle{
+    padding: 0% 4% !important;
+    
+ }
+ .one{
+    display: flex;
+    justify-content: space-between;
+ }
+ .one h1{
+    font-size: 45px;
+    font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+ }
+ .one p{
+    font-size: 16px;
+    font-family: 700;
+    font-family: "Montserrat", sans-serif;
+ }
+ .two{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* gap: 20px; */
+ }
+ .two h1{
+    font-size: 50px;
+    font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+ }
+ .two p{
+    font-size: 16px;
+    font-family: 700;
+    font-family: "Montserrat", sans-serif;
+ }
+ .three{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+ .three h1{
+    font-size: 48px;
+    font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+ }
+ .three p{
+    font-size: 16px;
+    font-family: 700;
+    font-family: "Montserrat", sans-serif;
+ }
+ .four{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+ .four h1{
+    font-size: 48px;
+    font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+ }
+ .four p{
+    font-size: 16px;
+    font-family: 700;
+    font-family: "Montserrat", sans-serif;
+ }
+ .five{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+ .five h1{
+    font-size: 48px;
+    font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+ }
+ .five p{
+    font-size: 16px;
+    font-family: 700;
+    font-family: "Montserrat", sans-serif;
+ }
+ .dem{
+    margin-left: 30%;
+    padding-bottom: 80px;
+ }
+ .more{
+    text-align: center;
+ }
+ .next{
+    justify-content: center;
+    align-items: center;
+ }
+ .in{
+    font-size: 30px;
+    font-weight: 400;
+    font-family: "Montserrat", sans-serif;
+ }
+ .logo a {
+    text-decoration: none;
+    color: #404040;
+  
+ }
+ .logo :hover{
+    color: crimson;
+ }
+ .design{
+    text-align: center;
+ }
+ .over a:hover{
+    color: crimson;
+ }
