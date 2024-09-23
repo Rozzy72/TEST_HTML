@@ -55,7 +55,7 @@
    font-weight: 600;
 } */ 
  .middle{
-    padding: 0% 13% !important;
+    padding: 0% 9% !important;
     
  }
  .one{
@@ -79,27 +79,27 @@
     /* gap: 20px; */
  }
  .two h1{
-    font-size: 50px;
+    font-size: 46px;
     font-weight: 700;
     font-family: "Montserrat", sans-serif;
  }
  .two p{
-    font-size: 16px;
+    font-size: 15px;
     font-family: 700;
     font-family: "Montserrat", sans-serif;
  }
  .three{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between !important;
     align-items: center;
  }
  .three h1{
-    font-size: 48px;
+    font-size: 46px;
     font-weight: 700;
     font-family: "Montserrat", sans-serif;
  }
  .three p{
-    font-size: 16px;
+    font-size: 14px;
     font-family: 700;
     font-family: "Montserrat", sans-serif;
  }
@@ -109,12 +109,12 @@
     align-items: center;
  }
  .four h1{
-    font-size: 48px;
+    font-size: 46px;
     font-weight: 700;
     font-family: "Montserrat", sans-serif;
  }
  .four p{
-    font-size: 16px;
+    font-size: 14px;
     font-family: 700;
     font-family: "Montserrat", sans-serif;
  }
@@ -124,12 +124,12 @@
     align-items: center;
  }
  .five h1{
-    font-size: 48px;
+    font-size: 45px;
     font-weight: 700;
     font-family: "Montserrat", sans-serif;
  }
  .five p{
-    font-size: 16px;
+    font-size: 14px;
     font-family: 700;
     font-family: "Montserrat", sans-serif;
  }
