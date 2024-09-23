@@ -12,6 +12,11 @@
     width: 100%;
    
 }
+/* .word{
+    align-items: center;
+    justify-content: space-between;
+    
+} */
 /* .navbar-nav{
     display: flex;
     margin-left: 670px;
@@ -50,7 +55,7 @@
    font-weight: 600;
 } */ 
  .middle{
-    padding: 0% 4% !important;
+    padding: 0% 13% !important;
     
  }
  .one{
